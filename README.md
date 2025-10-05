@@ -57,7 +57,7 @@ It showed teamwork, problem-solving, and strong documentation skills through det
 ---
 
 ## 📎 Files 
-- [Blackhawk_Alerting_Mobile_Application_Proposal.docx](Blackhawk_Alerting_Mobile_Application_Proposal.docx) 
-- [Blackhawk_Alerting_Mobile_Application_Use_Case_Specifications.docx](Blackhawk_Alerting_Mobile_Application_Use_Case_Specifications.docx)  
-- [Blackhawk_Alerting_Mobile_Application_Diagrams.docx](Blackhawk_Alerting_Mobile_Application_Diagrams.docx)
+- [Blackhawk_Alerting_Mobile_Application_Proposal.docx](Blackhawk_Alerting_Mobile_Application_Proposal.pdf) 
+- [Blackhawk_Alerting_Mobile_Application_Use_Case_Specifications.docx](Blackhawk_Alerting_Mobile_Application_Use_Case_Specifications.pdf)  
+- [Blackhawk_Alerting_Mobile_Application_Diagrams.docx](Blackhawk_Alerting_Mobile_Application_Diagrams.pdf)
 
