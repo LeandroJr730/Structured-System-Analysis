@@ -52,12 +52,12 @@ This project demonstrated how to plan, analyze, and design a real-world informat
 
 It showed teamwork, problem-solving, and strong documentation skills through detailed diagrams and use cases.
 
-🏆 Presented at SCC’s “One Good Thing” event, where I received a certificate of recognition for my presentation and contributions to the project.
+🏆 Presented at SCC’s [“One Good Thing” event](One_Good_Thing_Activity.jpg), where I received a [certificate of recognition](One_Good_Thing_Certification.jpg) for my presentation and contributions to the project.
 
 ---
 
 ## 📎 Files 
-- `Blackhawk_Alerting_Mobile_Application_Proposal.docx`  
-- `Blackhawk_Alerting_Mobile_Application_Use_Case_Specifications.docx`  
-- `Blackhawk_Alerting_Mobile_Application_Diagrams.docx`
+- [Blackhawk_Alerting_Mobile_Application_Proposal.docx](Blackhawk_Alerting_Mobile_Application_Proposal.docx) 
+- [Blackhawk_Alerting_Mobile_Application_Use_Case_Specifications.docx](Blackhawk_Alerting_Mobile_Application_Use_Case_Specifications.docx)  
+- [Blackhawk_Alerting_Mobile_Application_Diagrams.docx](Blackhawk_Alerting_Mobile_Application_Diagrams.docx)
 
