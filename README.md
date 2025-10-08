@@ -6,7 +6,7 @@
   </ul> 
 </div>
 
-### 📚 Course: CIS-504 — Structured Systems Analysis  
+### 📚 Course: CIS-504 — Structured Systems Analysis (Spring 2025)
 ### 👩‍🏫 Instructor: Brenda Wamsley  
 ### 👨‍🎓 Student: Leandro Augusto Romagnoli Junior — juninhoromagnoli11@gmail.com
 
